@@ -1,5 +1,4 @@
 import React from 'react';
-import Logo from '../';
 
 function Header(props) {
     return (
