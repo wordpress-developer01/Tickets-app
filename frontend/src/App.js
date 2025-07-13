@@ -1,8 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
 import Header from "./components/Header";
 import Tickets from "./components/Tickets";
-import {useState, useEffect} from "react";
+import {useState} from "react";
 import Pass from "./components/Pass";
 
 
